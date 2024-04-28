@@ -1,0 +1,21 @@
+{
+  "name": "next-modern",
+  "displayName": "Next Modern",
+  "description": "Personal theme based on Poimandres and Dark Modern.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Next Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Next Modern-color-theme.json"
+      }
+    ]
+  }
+}
